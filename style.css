@@ -1,3 +1,37 @@
+h1 {
+    color:pink;
+  font: ariel;
+  font-size: 50px;
+  text-align: center;
+  text-decoration: overline;
+
+  text-decoration-style: wavy;
+      text-decoration-color: blue;
+
+  
+}
+body {
+  background-color: lightblue;
+}
+
+img {
+ width: 10%;
+  border-radius: 8px;
+  border: dotted red 8px;
+}
+
+img:hover{
+  width:15%;
+  rotate: 180;
+ -webkit-box-reflect: below 20px;
+}
+
+a {
+  text-decotation:none;
+  color: black ;
+  
+}
+
 nav {
   list-style-tyoe: nine;
   psoition: fixied;
@@ -5,6 +39,12 @@ nav {
   width:100w;
   top: 0;
   left: 0;
+  padding 10px;
+  
+}
+
+li{
+  display: inline;
   padding 10px;
   
 }
