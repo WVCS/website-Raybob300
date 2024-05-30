@@ -4,9 +4,9 @@ h1 {
   font-size: 50px;
   text-align: center;
   text-decoration: overline;
-
   text-decoration-style: wavy;
-      text-decoration-color: blue;
+  text-decoration-color: blue;
+  word-spacing: 3px;
 
   
 }
